@@ -263,8 +263,8 @@
         <itemPath>../../../10dof/firmware/src/config/default/startup_xc32.c</itemPath>
       </logicalFolder>
       <itemPath>../src/main_sam_e51_cnano.c</itemPath>
-      <itemPath>../../../../BMM150/BMM150-Sensor-API-master/examples/generic/common/bmm150_common.c</itemPath>
       <itemPath>../src/click_routines/10dof/bmm150.c</itemPath>
+      <itemPath>../../../../../BMM150/BMM150-Sensor-API-master/examples/generic/common/bmm150_common.c</itemPath>
     </logicalFolder>
   </logicalFolder>
   <sourceRootList>
@@ -273,6 +273,7 @@
     <Elem>../../../../BMM150/lib/include</Elem>
     <Elem>../../../10dof/firmware/src/config/default</Elem>
     <Elem>../../../../../BMM150/lib/include</Elem>
+    <Elem>../../../../../BMM150/BMM150-Sensor-API-master/examples/generic/common</Elem>
   </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -351,7 +352,7 @@
         <property key="enable-unroll-loops" value="false"/>
         <property key="exclude-floating-point" value="false"/>
         <property key="extra-include-directories"
-                  value="../src;../src/config/default;../src/packs/ATSAME51J20A_DFP;../src/packs/CMSIS/;../src/packs/CMSIS/CMSIS/Core/Include;..\..\..\..\BMM150\lib\include;..\..\..\..\..\BMM150\lib\include"/>
+                  value="../src;../src/config/default;../src/packs/ATSAME51J20A_DFP;../src/packs/CMSIS/;../src/packs/CMSIS/CMSIS/Core/Include;..\..\..\..\BMM150\lib\include;..\..\..\..\..\BMM150\lib\include;..\src\config;..\src\packs"/>
         <property key="generate-16-bit-code" value="false"/>
         <property key="generate-micro-compressed-code" value="false"/>
         <property key="isolate-each-function" value="true"/>

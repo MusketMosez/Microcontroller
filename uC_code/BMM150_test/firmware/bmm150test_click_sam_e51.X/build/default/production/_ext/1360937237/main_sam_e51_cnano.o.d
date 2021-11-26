@@ -114,10 +114,10 @@ build/default/production/_ext/1360937237/main_sam_e51_cnano.o: \
  ../src/config/default/peripheral/sercom/usart/plib_sercom5_usart.h \
  ../src/config/default/peripheral/sercom/usart/plib_sercom_usart_common.h \
  ../src/config/default/peripheral/eic/plib_eic.h \
- ../../../../BMM150/lib/include/bmm150.h \
- ../../../../BMM150/lib/include/bmm150_defs.h \
- ../../../../BMM150/lib/include/bmm150_common.h \
- ../../../../BMM150/lib/include/bmm150.h
+ ../../../../../BMM150/lib/include/bmm150.h \
+ ../../../../../BMM150/lib/include/bmm150_defs.h \
+ ../../../../../BMM150/lib/include/bmm150_common.h \
+ ../../../../../BMM150/lib/include/bmm150.h
 
 ../src/config/default/definitions.h:
 
@@ -351,10 +351,10 @@ build/default/production/_ext/1360937237/main_sam_e51_cnano.o: \
 
 ../src/config/default/peripheral/eic/plib_eic.h:
 
-../../../../BMM150/lib/include/bmm150.h:
+../../../../../BMM150/lib/include/bmm150.h:
 
-../../../../BMM150/lib/include/bmm150_defs.h:
+../../../../../BMM150/lib/include/bmm150_defs.h:
 
-../../../../BMM150/lib/include/bmm150_common.h:
+../../../../../BMM150/lib/include/bmm150_common.h:
 
-../../../../BMM150/lib/include/bmm150.h:
+../../../../../BMM150/lib/include/bmm150.h:

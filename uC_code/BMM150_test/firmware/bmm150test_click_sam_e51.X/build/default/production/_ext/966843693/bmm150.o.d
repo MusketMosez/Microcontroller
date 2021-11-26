@@ -1,8 +1,8 @@
 build/default/production/_ext/966843693/bmm150.o: \
  ../src/click_routines/10dof/bmm150.c \
- ../../../../BMM150/lib/include/bmm150.h \
- ../../../../BMM150/lib/include/bmm150_defs.h \
- ../../../../BMM150/lib/include/click_interface.h \
+ ../../../../../BMM150/lib/include/bmm150.h \
+ ../../../../../BMM150/lib/include/bmm150_defs.h \
+ ../../../../../BMM150/lib/include/click_interface.h \
  ../src/config/default/definitions.h \
  ../src/config/default/peripheral/nvmctrl/plib_nvmctrl.h \
  ../src/config/default/device.h \
@@ -22,11 +22,11 @@ build/default/production/_ext/966843693/bmm150.o: \
  ../src/config/default/peripheral/sercom/usart/plib_sercom_usart_common.h \
  ../src/config/default/peripheral/eic/plib_eic.h
 
-../../../../BMM150/lib/include/bmm150.h:
+../../../../../BMM150/lib/include/bmm150.h:
 
-../../../../BMM150/lib/include/bmm150_defs.h:
+../../../../../BMM150/lib/include/bmm150_defs.h:
 
-../../../../BMM150/lib/include/click_interface.h:
+../../../../../BMM150/lib/include/click_interface.h:
 
 ../src/config/default/definitions.h:
 

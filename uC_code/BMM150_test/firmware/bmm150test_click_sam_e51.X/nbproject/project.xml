@@ -18,6 +18,7 @@
                 <sourceRootElem>../../../../BMM150/lib/include</sourceRootElem>
                 <sourceRootElem>../../../10dof/firmware/src/config/default</sourceRootElem>
                 <sourceRootElem>../../../../../BMM150/lib/include</sourceRootElem>
+                <sourceRootElem>../../../../../BMM150/BMM150-Sensor-API-master/examples/generic/common</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>
